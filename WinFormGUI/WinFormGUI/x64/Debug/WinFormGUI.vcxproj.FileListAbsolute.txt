@@ -1,0 +1,5 @@
+C:\Users\Amr\source\repos\WinFormGUI\WinFormGUI\x64\Debug\WinFormGUI.vcxproj.AssemblyReference.cache
+C:\Users\Amr\source\repos\WinFormGUI\WinFormGUI\x64\Debug\WinFormGUI.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Amr\source\repos\WinFormGUI\WinFormGUI\x64\Debug\WinFormGUI.MyForm.resources
+C:\Users\Amr\source\repos\WinFormGUI\WinFormGUI\x64\Debug\WinFormGUI.vcxproj.GenerateResource.cache
+C:\Users\Amr\source\repos\WinFormGUI\WinFormGUI\x64\Debug\WinFormGUI.SecondForm.resources

@@ -1,0 +1,7 @@
+C:\Users\Amr\source\repos\WinFormGUI\WinFormGUI\Debug\WinFormGUI.vcxproj.AssemblyReference.cache
+C:\Users\Amr\source\repos\WinFormGUI\WinFormGUI\Debug\WinFormGUI.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Amr\source\repos\WinFormGUI\WinFormGUI\Debug\WinFormGUI.vcxproj.GenerateResource.cache
+C:\Users\Amr\source\repos\WinFormGUI\WinFormGUI\Debug\WinFormGUI.EnterBirthdayForm.resources
+C:\Users\Amr\source\repos\WinFormGUI\WinFormGUI\Debug\WinFormGUI.MainMenuForm.resources
+C:\Users\Amr\source\repos\WinFormGUI\WinFormGUI\Debug\WinFormGUI.TarotCardSelect.resources
+C:\Users\Amr\source\repos\WinFormGUI\WinFormGUI\Debug\WinFormGUI.Reading.resources
